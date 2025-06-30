@@ -5,13 +5,28 @@ Consumer Price Index (CPI) is an important economic indicator used to measure in
 
 The code for predicting CPI for different commodities is in their respective folders. To run the code, clone the GitHub repository and run the respective Jupyter notebooks. The Datafiles folder contains the original dataset taken from [opendata.gov](https://www.data.gov.in/) and can be used in place of the existing dataset in the notebooks.
 
-## Citations
 
-If you are using this code in your work, kindly reference the following paper 
 
-```
-S. Dasu and Mohana, "Prediction of Consumer Price Index (CPI) in Urban India using Statistical Methods,"
-2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT),
-Delhi, India, 2023, pp. 1-6, doi: 10.1109/ICCCNT56998.2023.10306631. 
+## Citation
+
+If you use or reference this code in your work, please cite the following publication:
+
+> **S. Dasu and Mohana, "Prediction of Consumer Price Index (CPI) in Urban India using Statistical Methods,"  
+> 2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT),  
+> Delhi, India, 2023, pp. 1-6, doi: [10.1109/ICCCNT56998.2023.10306631](https://doi.org/10.1109/ICCCNT56998.2023.10306631).**
+
+### BibTeX
+```bibtex
+@inproceedings{Dasu2023CPI,
+  author    = {S. Dasu and Mohana},
+  title     = {Prediction of Consumer Price Index (CPI) in Urban India using Statistical Methods},
+  booktitle = {2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT)},
+  pages     = {1--6},
+  year      = {2023},
+  address   = {Delhi, India},
+  publisher = {IEEE},
+  doi       = {10.1109/ICCCNT56998.2023.10306631}
+}
+
 ```
 
